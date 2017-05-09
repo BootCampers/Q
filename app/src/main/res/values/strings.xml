@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Q</string>
+    <string name="facebook_application_id" translatable="false">456027634756749</string>
+    <!-- Facebook Application ID, prefixed by 'fb'.  Enables Chrome Custom tabs. -->
+    <string name="facebook_login_protocol_scheme" translatable="false">fb456027634756749</string>
+    <string name="twitter_consumer_key" translatable="false">tr862mpIzAEd0x3mvYVdDYhe2</string>
+    <string name="twitter_consumer_secret" translatable="false">TQ58QyGRF87G1kHijtbRB41mOR5K0odZUbVFtOkJmSwktHmHZw</string>
+</resources>
